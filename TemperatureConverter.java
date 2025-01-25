@@ -25,7 +25,7 @@ public class TemperatureConverter {
 
     }
 
-    public static void main(System[] args) {
+    public static void main(String[] args) {
 
         double degreesInFahrenheit = 25;
         
