@@ -5,13 +5,7 @@ public class TemperatureConverter {
 
         // #### Assignment Starts Here ####
 
-        /**
-         * 
-         * Please write an "algorithm" below taking the "input parameter" degreesInFarenheit
-         * and converting it to the variable "degreesInCelsius" which will be printed below
-         *  
-         */
-
+        double degreesInCelsius = (degreesInFahrenheit - 32) * 5.0 / 9.0;
         
 
         
